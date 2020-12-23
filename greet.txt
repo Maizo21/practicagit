@@ -1,0 +1,5 @@
+alert('Hello');
+
+//Show some cool greet image
+
+//Ask the user what he/she wants to drink
